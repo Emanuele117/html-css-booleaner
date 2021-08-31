@@ -11,11 +11,45 @@
 }
 
 .descrizione{
+    font-size: 13px;
     line-height: 10%;
     font-family: inherit;
+    
+}
+
+.span{
+    background-color: yellow;
+   
+}
+
+.evidenzia{
+    background-color: yellow;
+}
+
+.scritte{
+    padding: 10px;
+    line-height: 10%;
+    
+}
+
+.evidenziatore{
+    color:lightblue;
+}
+
+.evidenziatore2{
+    color: grey;
+}
+
+.data{
+    font-size: 12px;
+}
+
+.colore{
+    color: grey;
+    line-height: 20%;
+    margin: 10px;
 }
 
 .paragrafo{
-    font-size: 20px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
 }
