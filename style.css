@@ -53,3 +53,29 @@
 .paragrafo{
     margin: 10px;
 }
+
+table{
+    background-color: lightblue ;
+    width: 1000px;
+    height: 150px;
+}
+
+th{
+    background-color: #00BFFF;
+    color: white;
+    width: 20%;
+    height: 20%;
+}
+
+td{
+    width: 20%;
+    height: 20%;
+}
+
+tfoot{
+    height: 30%;
+}
+
+.white{
+    background-color: white;
+}
