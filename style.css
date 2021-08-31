@@ -1,0 +1,21 @@
+.contenitore{
+    background-color: #1a8cff;   
+    background-image: url(./img/pattern.png); 
+    height: 170px;
+}
+
+.logo{
+    height: 100px;
+    width: 200px;
+    padding: 50px;
+}
+
+.descrizione{
+    line-height: 10%;
+    font-family: inherit;
+}
+
+.paragrafo{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
