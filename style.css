@@ -1,81 +1,88 @@
-.contenitore{
-    background-color: #1a8cff;   
-    background-image: url(./img/pattern.png); 
+.contenitore {
+    background-color: #1a8cff;
+    background-image: url(./img/pattern.png);
     height: 170px;
 }
 
-.logo{
-    height: 100px;
-    width: 200px;
-    padding: 50px;
+.logo {
+    height: 170px;
+    width: 250px;
+    padding: 2rem 0.5rem 0.5rem;
 }
 
-.descrizione{
+.descrizione {
     font-size: 13px;
     line-height: 10%;
     font-family: inherit;
-    
 }
 
-.span{
-    background-color: yellow;
-   
-}
-
-.evidenzia{
+.span {
     background-color: yellow;
 }
 
-.scritte{
+.evidenzia {
+    background-color: yellow;
+}
+
+.titolo {
+    font-size: 45px;
+    margin-top: 10px;
+    margin-bottom: 1rem;
+    padding-left: 0.5rem;
+}
+
+.scritte {
     padding: 10px;
-    line-height: 10%;
-    
+    padding-left: 0.5rem;
+    margin-top: -2.5rem;
+    margin-bottom: 10px;
+    line-height: 5px;
 }
 
-.evidenziatore{
-    color:lightblue;
+.evidenziatore {
+    color: lightblue;
 }
 
-.evidenziatore2{
+.evidenziatore2 {
     color: grey;
 }
 
-.data{
+.data {
     font-size: 12px;
 }
 
-.colore{
+.colore {
     color: grey;
     line-height: 20%;
     margin: 10px;
 }
 
-.paragrafo{
+.paragrafo {
     margin: 10px;
 }
 
-table{
-    background-color: lightblue ;
+table {
+    background-color: lightblue;
     width: 1000px;
     height: 150px;
 }
 
-th{
+th {
     background-color: #00BFFF;
     color: white;
     width: 20%;
     height: 20%;
 }
 
-td{
+td {
     width: 20%;
     height: 20%;
 }
 
-tfoot{
+tfoot {
     height: 30%;
 }
 
-.white{
+.white {
     background-color: white;
 }
